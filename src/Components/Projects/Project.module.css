@@ -1,0 +1,40 @@
+.projects{
+    padding-top: 5rem;
+    padding-left: 13rem;
+}
+
+.top{
+    background-color: #292929;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin-bottom: 1rem;
+}
+
+.top > h3 > a {
+    color: white;
+}
+
+
+.middle{
+    margin-bottom: 1rem;
+    background-color: #292929;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.middle > h3 > a {
+    color: white;
+}
+
+
+
+.bottom{
+    margin-bottom: 1rem;
+    background-color: #292929;
+    border-radius: 1rem;
+    padding: 2rem;
+}
+
+.bottom > h3 > a {
+    color: white;
+}

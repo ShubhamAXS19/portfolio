@@ -1,0 +1,31 @@
+.fade {
+    color: #FFFFFF;
+    font-size: 10rem;
+}
+
+
+
+#icons{
+    padding-left: 25rem;
+}
+#icons > a {
+    /* display:flex; */
+    margin: 2rem;
+    /* padding-left: 10rem; */
+    /* padding-bottom: 10rem; */
+    /* margin-bottom: 5rem; */
+    color:white;
+    transition: transform 1s;
+    /* z-index: 2; */
+    
+
+    
+}
+
+#icons > a :hover{
+    transition-duration: 3000ms;
+    transform: scale(1.1);
+    overflow: hidden;
+}
+   
+

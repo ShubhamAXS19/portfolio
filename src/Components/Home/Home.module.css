@@ -1,0 +1,32 @@
+/* .home > h1{
+    font-family: 'My Soul',cursive;
+    font-size: 7rem;
+    padding-top: 10rem;
+    padding-left: 5rem;
+    color: #e6af2e;
+     transition-duration: 5sec; 
+}
+
+.home > h4{
+    font-size: 4rem;
+    font-weight: 300;
+    margin-top: 5rem;
+    padding-left: 13rem;
+    padding-bottom: 4rem;
+    transition-duration: 10sec;
+    
+} */
+
+.home > h1{
+    font-family: 'My Soul',cursive;
+    font-size: 7rem;
+    color: #e6af2e;
+    padding: 5rem;
+}
+
+.home > h4{
+    padding-left: 12rem;
+    font-size: 4rem;
+    margin-bottom: 10rem;
+    color: white;
+}

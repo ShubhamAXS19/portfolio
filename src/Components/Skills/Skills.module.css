@@ -1,0 +1,46 @@
+.skills > p {
+    font-size: 15rem;
+    font-family: 'Nunito', sans-serif;
+    color: #dee2e6;
+    position: relative; 
+    top: 30rem;
+    left: 2.5rem;
+    z-index: -1; 
+    opacity: 0.3;
+}
+
+
+li{
+    list-style: none;
+}
+
+p{
+    color: white;
+}
+
+img{
+    padding: 1rem;
+}
+
+.Framework{
+    font-size: 1.5rem;
+    padding-left: 10rem;
+    
+}
+
+.Web{
+    font-size: 1.5rem;
+    padding-left: 10rem;
+}
+
+.Database{
+    font-size: 1.5rem;
+    padding-left: 10rem;
+}
+
+.extra{
+    font-size: 1.5rem;
+    padding-top: 2rem;
+    padding-left: 10rem;
+
+}
