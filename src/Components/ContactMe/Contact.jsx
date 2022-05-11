@@ -15,7 +15,7 @@ return (
         <Fragment >
             <p className={styles.fade}> CONTACT </p> 
 
-            <div id='icons'>
+            <div className={styles.icons}>
                {/* <a href=""> <TwitterIcon sx={{ fontSize: 100 }} />  </a> */}
                {/* <a href=""> <InstagramIcon sx={{ fontSize: 100 }} /> </a>  */}
                <a href=""> <EmailIcon sx={{ fontSize: 100 }}/> </a>

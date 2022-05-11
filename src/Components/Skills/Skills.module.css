@@ -1,12 +1,8 @@
 .skills > p {
-    font-size: 15rem;
+    font-size: 10rem;
     font-family: 'Nunito', sans-serif;
     color: #dee2e6;
-    position: relative; 
-    top: 30rem;
-    left: 2.5rem;
-    z-index: -1; 
-    opacity: 0.3;
+    padding: 8rem 3rem 1rem 12rem;
 }
 
 
@@ -16,6 +12,7 @@ li{
 
 p{
     color: white;
+    /* padding-left: 10rem; */
 }
 
 img{
@@ -27,20 +24,29 @@ img{
     padding-left: 10rem;
     
 }
-
-.Web{
-    font-size: 1.5rem;
-    padding-left: 10rem;
+.Framework >p {
+        padding: 1rem 3rem 1rem 2rem;
+    
 }
-
-.Database{
-    font-size: 1.5rem;
-    padding-left: 10rem;
-}
-
-.extra{
-    font-size: 1.5rem;
-    padding-top: 2rem;
-    padding-left: 10rem;
+.Database >p {
+        padding: 1rem 3rem 1rem 2rem;
+        
+    } 
+    
+    
+    .Web{
+        font-size: 1.5rem;
+        padding-left: 10rem;
+    }
+    
+    .Database{
+        font-size: 1.5rem;
+        padding-left: 10rem;
+    }
+    
+    .extra{
+        font-size: 1.5rem;
+        padding: 1rem 3rem 1rem 12rem;
+   
 
 }

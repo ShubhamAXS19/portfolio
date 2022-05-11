@@ -17,16 +17,17 @@
     
 } */
 
-.home > h1{
+ h1{
     font-family: 'My Soul',cursive;
-    font-size: 7rem;
+    font-size: 6.5rem;
     color: #e6af2e;
-    padding: 5rem;
+    padding: 7rem 3rem 4rem 6rem;
 }
 
-.home > h4{
-    padding-left: 12rem;
+h4{
+    
+    padding: 2rem 3rem 4rem 12rem;
     font-size: 4rem;
-    margin-bottom: 10rem;
+    /* margin-bottom: 10rem; */
     color: white;
 }

@@ -7,7 +7,7 @@ import LightSpeed from 'react-reveal/LightSpeed';
 
 const Skills = () => {
     return (
-    <div className="skills">
+    <div className={styles.skills}>
             
 
         <p>SKILLS</p>
@@ -15,7 +15,7 @@ const Skills = () => {
         <Container>
             <Row>
 
-                <Row className='Web'>
+                <Row className={styles.Web}>
                     <LightSpeed left >
                             <ul>
                                 <p>WEB TOOLS</p>
@@ -30,10 +30,10 @@ const Skills = () => {
                 </Row>
 
 
-            <Row className='Framework'>
+            <Row className={styles.Framework}>
                 <LightSpeed left>
-                    <ul>
                         <p>FRAMEWORK</p>
+                    <ul>
                         <img src="https://img.icons8.com/office/160/000000/react.png"/> 
                         <img src="https://expressjs.com/images/express-facebook-share.png" alt="" />
                         <img src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
@@ -44,7 +44,7 @@ const Skills = () => {
 
 
 
-            <Row className='Database'>
+            <Row className={styles.Database}>
                 <LightSpeed left>
                         <p>DATABASE</p>
                         
@@ -62,7 +62,7 @@ const Skills = () => {
 
             
 
-            <Col className='extra'> <p>Familier with Python,C++,Java and few Animation Packages</p> </Col>
+            <Col className={styles.extra}> <p>Familier with Python,C++,Java and few Animation Packages</p> </Col>
         </Row>
 
         </Container>

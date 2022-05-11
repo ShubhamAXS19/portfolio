@@ -1,3 +1,8 @@
+/* .aboutme{
+padding-bottom: 2rem;
+} */
+
+
 .back{
     z-index: -1;
     font-weight: 400;
@@ -8,11 +13,16 @@
     
 }
 
-p{
-    padding-left: 10rem;
-
+.back > p{
+    padding: 5rem 3rem 2rem 10rem;
+    
 }
 
 .front {
     font-size: 2rem;
+}
+
+.front > p{
+    padding: 1rem 3rem 5rem 12rem;
+    
 }

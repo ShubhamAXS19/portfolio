@@ -6,14 +6,14 @@ const Project = () => {
     <div className={styles.projects}>
 
     <div className={styles.top}>
-      <h3><a href=""> NAME</a></h3>
+      <h3><a href="https://yelpcampwithoutreact.herokuapp.com/"> YelpCamp</a></h3>
       <p>STACK USED</p>
       <p>DESC</p>
     </div>
 
 
     <div className={styles.middle}>
-      <h3><a href=""> NAME</a></h3>
+      <h3><a href="https://splendid-fudge-e41ead.netlify.app/"> Netflix with TMDB</a></h3>
       <p>STACK USED</p>
       <p>DESC</p>
     </div>
